@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1650939521 source:c:\users\selin\onedrive\орн▒\week10\main.cpp
+	<GL/glut.h>
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+
+1650386766 c:\users\selin\onedrive\орн▒\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1650386766 c:\users\selin\onedrive\орн▒\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
