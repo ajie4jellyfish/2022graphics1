@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514140588 source:c:\users\selina\desktop\week15_hw_gundam\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1426320928 c:\users\selina\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\selina\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
